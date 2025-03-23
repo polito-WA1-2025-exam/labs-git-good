@@ -1,11 +1,9 @@
-# Group "GROUP NAME"
+# Group "Git Good"
 
 ## Members
-- s123456 LASTNAME FIRSTNAME
-- s123456 LASTNAME FIRSTNAME
-- s123456 LASTNAME FIRSTNAME
+- s323336 Lotf Ranaei Amirhossein
 
-# Exercise "NAME OF EXERCISE"
+# Exercise "Poke"
 
 # Lab Journal
 
